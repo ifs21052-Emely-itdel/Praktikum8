@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\item_row_chat.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\item_row_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\content_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\fragment_detail.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "com.ifs21052.pampraktikum8.app-mergeDebugResources-3:/layout/fragment_chat.xml",
+        "source": "com.ifs21052.pampraktikum8.app-main-6:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\fragment_notification.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\fragment_calls.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\fragment_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\fragment_community.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\fragment_community.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\activity_list_chat.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\activity_list_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-mergeDebugResources-3:\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.ifs21052.pampraktikum8.app-main-6:\\layout\\fragment_chat.xml"
+    }
+]
