@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">PAM Praktikum 8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chats">Chats</string>
+    <string name="updates">Updates</string>
+    <string name="communities">Communities</string>
+    <string name="calls">Calls</string>
+
+    <string name="propic">Foto Pengguna</string>
+    <string name="username">Username</string>
+    <string name="message">Message</string>
+    <string name="time">Time</string>
+
+    <string-array name="propics">
+        <item>@drawable/alexa</item>
+        <item>@drawable/blake</item>
+        <item>@drawable/camila</item>
+        <item>@drawable/damian</item>
+        <item>@drawable/evelyn</item>
+        <item>@drawable/finn</item>
+        <item>@drawable/harper</item>
+        <item>@drawable/ian</item>
+        <item>@drawable/luna</item>
+        <item>@drawable/noah</item>
+    </string-array>
+
+    <string-array name="usernames">
+        <item>Alexa Stone</item>
+        <item>Blake Reynolds</item>
+        <item>Camila Diaz</item>
+        <item>Damian Hunter</item>
+        <item>Evelyn Rose</item>
+        <item>Finn Williams</item>
+        <item>Harper Jones</item>
+        <item>Ian Wright</item>
+        <item>Luna Mitchell</item>
+        <item>Noah Miller</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>Hai, apa kabar?</item>
+        <item>Kita bisa ngobrol tentang project minggu ini.</item>
+        <item>Kapan kamu bisa ketemuan?</item>
+        <item>Aku punya ide baru untuk project kita! Mau dengar?</item>
+        <item>Maaf balasnya lama. Lagi sibuk akhir-akhir ini!</item>
+        <item>Sebenarnya aku nggak bisa meeting hari ini. Bisa dijadwal ulang?</item>
+        <item>Bisakah kamu bantu aku dengan tugas ini? Tolong banget!</item>
+        <item>Makasih banyak atas bantuannya! Kamu terbaik! </item>
+        <item>Senang bisa kerja sama dengan kamu juga! Sampai jumpa di meeting berikutnya.</item>
+        <item>Selamat akhir pekan sayang! Sampai jumpa Senin depan! </item>
+    </string-array>
+
+    <string-array name="times">
+        <item>10.00</item>
+        <item>9.50</item>
+        <item>9.35</item>
+        <item>8.00</item>
+        <item>8.02</item>
+        <item>6.00</item>
+        <item>yesterday</item>
+        <item>yesterday</item>
+        <item>yesterday</item>
+        <item>yesterday</item>
+    </string-array>
+</resources>
