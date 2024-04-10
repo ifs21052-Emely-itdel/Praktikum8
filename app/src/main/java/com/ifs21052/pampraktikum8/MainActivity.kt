@@ -1,6 +1,7 @@
 package com.ifs21052.pampraktikum8
 
 import android.os.Bundle
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import com.ifs21052.pampraktikum8.databinding.ActivityMainBinding
@@ -26,32 +27,35 @@ class MainActivity : AppCompatActivity() {
 //        }
         binding.inAppBar.toolbar.setOnMenuItemClickListener { menuItem ->
             when (menuItem.itemId) {
+                // Misalnya, jika kode ini berada dalam sebuah kelas yang mewarisi AppCompatActivity,
+// Anda dapat menggunakan 'this' sebagai konteks:
+
                 R.id.action_camera -> {
-                    loadFragment(FLAG_FRAGMENT_CHAT, "Memilih menu camera!")
+                    Toast.makeText(this, "Memilih menu camera!", Toast.LENGTH_SHORT).show()
                     true
                 }
                 R.id.action_search -> {
-                    loadFragment(FLAG_FRAGMENT_CHAT, "Memilih menu search!")
+                    Toast.makeText(this, "Memilih menu search!", Toast.LENGTH_SHORT).show()
                     true
                 }
                 R.id.action_group -> {
-                    loadFragment(FLAG_FRAGMENT_CHAT, "Memilih menu new group!")
+                    Toast.makeText(this, "Memilih menu new group!", Toast.LENGTH_SHORT).show()
                     true
                 }
                 R.id.action_broadcast -> {
-                    loadFragment(FLAG_FRAGMENT_CHAT, "Memilih menu new broadcast!")
+                    Toast.makeText(this, "Memilih menu new broadcast!", Toast.LENGTH_SHORT).show()
                     true
                 }
                 R.id.action_linked -> {
-                    loadFragment(FLAG_FRAGMENT_CHAT, "Memilih menu linked devices!")
+                    Toast.makeText(this, "Memilih menu linked devices!", Toast.LENGTH_SHORT).show()
                     true
                 }
                 R.id.action_starred -> {
-                    loadFragment(FLAG_FRAGMENT_CHAT, "Memilih menu starred messages!")
+                    Toast.makeText(this, "Memilih menu starred messages!", Toast.LENGTH_SHORT).show()
                     true
                 }
                 R.id.action_settings -> {
-                    loadFragment(FLAG_FRAGMENT_CHAT, "Memilih menu settings!")
+                    Toast.makeText(this, "Memilih menu settings!", Toast.LENGTH_SHORT).show()
                     true
                 }
                 else -> true
